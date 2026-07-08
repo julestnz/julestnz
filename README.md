@@ -26,3 +26,8 @@ that plan, execute, and verify their own work.
   native Android client for remote Claude Code sessions over Tailscale
 - **[WeatherApp](https://github.com/julestnz/WeatherApp)** — small weather
   app built live in a Claude Code pairing/teaching session (Astro/Svelte)
+- **[pws](https://github.com/julestnz/pws)** — virtual weather station:
+  multi-source sensor fusion feeding Weather Underground as a stopgap
+  until real hardware arrives (Python)
+- **[tuku](https://github.com/julestnz/tuku)** — cooperative multiplayer
+  fantasy RPG with LLM-powered narrative (Godot + Python/FastAPI + Claude API)
