@@ -1,6 +1,6 @@
 ### Hi, I'm Julien
 
-VP of Technology at Datatorque (Wellington, NZ). I lead engineering teams, and
+Head of Technology at Datatorque (Wellington, NZ). I lead engineering teams, and
 I stay hands-on — the projects below are things I've personally designed and
 built, mostly with Claude Code as a development partner.
 
